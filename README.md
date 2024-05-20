@@ -1,6 +1,8 @@
 # simplexreg
 Simplex Generalized Linear Model Regression Function Use simplexreg With (In) R Software
 
+https://www.youtube.com/watch?v=17iAxwJ17XQ
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
